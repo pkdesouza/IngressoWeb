@@ -1,0 +1,63 @@
+﻿@model ServiceLayer.DTO.DetailsMovieModel
+
+@{
+    ViewData["Title"] = "Editar Filme";
+}
+
+<h4>Editar Filme</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Filme</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Synopsis" class="control-label">Sinopse</label>
+                <textarea asp-for="Synopsis" class="form-control" cols="8" rows="6"></textarea>
+                <span asp-validation-for="Synopsis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Trailer" class="control-label">Link do Trailer</label>
+                <input asp-for="Trailer" class="form-control" />
+                <span asp-validation-for="Trailer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label">Link da Imagem da capa</label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AgeRating" class="control-label">Idade Indicativa</label>
+                <select class="form-group form-control" asp-for="AgeRating">
+                    <option value="0" @if(AgeRating= =0){@Html.Raw("selected ='selected' ")} >Livre</option>
+                    <option value="10" @if(AgeRating= =10){@Html.Raw("selected ='selected' ")}>10</option>
+                    <option value="12" @if(AgeRating= =12){@Html.Raw("selected ='selected' ")}>12</option>
+                    <option value="14" @if(AgeRating= =14){@Html.Raw("selected ='selected' ")}>14</option>
+                    <option value="16" @if(AgeRating= =16){@Html.Raw("selected ='selected' ")}>16</option>
+                    <option value="18" @if(AgeRating= =18){@Html.Raw("selected ='selected' ")}>18</option>
+                </select>
+                <span asp-validation-for="AgeRating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseYear" class="control-label">Ano de lançamento</label>
+                <input asp-for="ReleaseYear" class="form-control" />
+                <span asp-validation-for="ReleaseYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Editar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para lista de filmes</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

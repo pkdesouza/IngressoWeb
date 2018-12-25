@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListSessionMovieTheaterModel>
+
+@{
+    ViewData["Title"] = "Sessões";
+}
+
+<h2 class="text-center">Sessões</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cinema
+            </th>
+            <th>
+                Cidade
+            </th>
+            <th>
+                Estado
+            </th>
+            <th>
+                Quantidade de Sessões
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityNameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StateMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantitySessions)
+            </td>
+            <td> 
+                <span class="badge badge-pill badge-primary">
+                    @Html.ActionLink("Adicionar sessões", "Create", new { id = item.Id })
+                </span>
+                &nbsp;
+                <span class="badge badge-pill badge-info">
+                    @Html.ActionLink("Exibir sessões", "sessions", new { id = item.Id })
+                </span>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

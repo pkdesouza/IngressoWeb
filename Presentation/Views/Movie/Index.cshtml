@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListMovieModel>
+
+@{
+    ViewData["Title"] = "Filmes";
+}
+
+<h2 class="text-center">Filmes</h2>
+
+<p>
+    <span class="badge badge-pill badge-primary float-right">
+        <a asp-action="Create">Adicionar Filme</a>
+    </span>
+</p>
+@if (Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Capa do filme
+                </th>
+                <th>
+                    Filme
+                </th>
+                <th>
+                    Preço
+                </th>
+                <th>
+                    Ano de Lançamento
+                </th>
+                <th>Acões</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @if (!String.IsNullOrEmpty(item.Image))
+                        {
+                            <img class="img-thumbnail-movie" src="@Html.Raw(item.Image)" />
+                        }
+                        else
+                        {
+                            <img class="img-thumbnail-movie" src="~/images/image-movie.png" />
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        R$ @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ReleaseYear)
+                    </td>
+                    <td>
+                        <span class="badge badge-pill badge-warning">
+                            @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                        </span>
+                        &nbsp;
+                        <span class="badge badge-pill badge-info">
+                            @Html.ActionLink("Detalhes", "Details", new { id = item.Id })
+                        </span>
+                        &nbsp;
+                        <span class="badge badge-pill badge-danger">
+                            @Html.ActionLink("Remover", "Delete", new { id = item.Id })
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else {
+        <h3>Nenhum filme cadastrado</h3>
+}

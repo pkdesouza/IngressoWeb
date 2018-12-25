@@ -1,0 +1,70 @@
+﻿@model ServiceLayer.DTO.CreateMovieModel
+
+@{
+    ViewData["Title"] = "CreateMovie";
+}
+
+<h4>Adicionar Filme</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Filme</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Synopsis" class="control-label">Sinopse</label>
+                <textarea asp-for="Synopsis" rows="6" cols="8" class="form-control"></textarea>
+                <span asp-validation-for="Synopsis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Trailer" class="control-label">Link do Trailer</label>
+                <input asp-for="Trailer" class="form-control" />
+                <span asp-validation-for="Trailer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label">Link da Imagem da capa</label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AgeRating" class="control-label">Idade Indicativa</label>
+                <select class="form-group form-control" asp-for="AgeRating">
+                    <option value="-99">Selecione uma Idade Indicativa</option>
+                    <option value="0">Livre</option>
+                    <option value="10">10</option>
+                    <option value="12">12</option>
+                    <option value="16">16</option>
+                    <option value="14">14</option>
+                    <option value="18">18</option>
+                </select>
+                <span asp-validation-for="AgeRating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label">Preço</label>
+                <input asp-for="Price" type="text" class="form-control"  />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseYear" class="control-label">Ano de Lançamento</label>
+                <input asp-for="ReleaseYear" class="form-control" />
+                <span asp-validation-for="ReleaseYear" type="number" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Adicionar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

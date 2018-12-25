@@ -1,0 +1,58 @@
+﻿@model ServiceLayer.DTO.DetailsMovieTheaterModel
+
+@{
+    ViewData["Title"] = "Editar Cinema";
+}
+
+<h4>Editar Cinema</h4>
+<hr />
+<div class="row" id="app">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Cinema</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StreetName" class="control-label">Rua</label>
+                <input asp-for="StreetName" class="form-control street"  v-model="street" v-bind:value="street" />
+                <span asp-validation-for="StreetName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ZipCode" class="control-label">Cep</label>
+                <input asp-for="ZipCode" class="form-control zipCode" v-model="zipCode" v-on:keyup="zipCodeEvent" autocomplete="new-password" v-bind:value="zipCode" />
+                <span asp-validation-for="ZipCode" class="text-danger zipCodeError"> {{zipCodeAlert}}</span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberAddress" class="control-label">Número</label>
+                <input asp-for="NumberAddress" class="form-control" />
+                <span asp-validation-for="NumberAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CityName" class="control-label">Cidade</label>
+                <input asp-for="CityName" class="form-control city"  v-model="city" v-bind:value="city"/>
+                <span asp-validation-for="CityName" class="text-danger" ></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label">Estado</label>
+                <input asp-for="State" class="form-control state"  v-model="state" v-bind:value="state"/>
+                <span asp-validation-for="State" class="text-danger" ></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para lista de cinemas</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="~/lib/VueJS/vue.js"></script>
+    <script src="~/js/script.js"></script>  
+}

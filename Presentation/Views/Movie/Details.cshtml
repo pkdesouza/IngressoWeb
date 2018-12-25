@@ -1,0 +1,78 @@
+﻿@model ServiceLayer.DTO.DetailsMovieModel
+
+@{
+    ViewData["Title"] = "Detalhes do filme";
+}
+<div class="row">
+    <div class="col-md-6">
+        <h4>Detalhes do filme</h4>
+        <hr />
+
+        @if (!String.IsNullOrEmpty(Model.Image))
+        {
+            <img class="img-thumbnail" src="@Html.Raw(Model.Image)" />
+        }
+        else
+        {
+            <img class="img-thumbnail" src="~/images/image-movie.png"/>
+        }
+        <dl class="dl-horizontal">
+            <dt>
+                Filme
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt>
+                Sinopse
+            </dt>
+            <dd class="text-justify">
+                @Html.DisplayFor(model => model.Synopsis)
+            </dd>
+            <dt>
+                Idade indicativa
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.AgeRating)
+            </dd>
+            <dt>
+                Preço
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt>
+                Ano de Lançamento
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.ReleaseYear)
+            </dd>
+            <dt>
+                Data do Registro
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.RegistrationDate)
+            </dd>
+            <dt>
+                Data da última modificação
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.LastModificationDate)
+            </dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        @if (!String.IsNullOrEmpty(Model.Trailer))
+        {
+
+            <iframe width="560" height="315" src="@Html.Raw(Model.Trailer)"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        }
+    </div>
+</div>
+<div>
+    <span class="badge badge-pill badge-warning ">
+        @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "text-white" })
+    </span>
+    <a asp-action="Index">Voltar para lista de filmes</a>
+</div>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListRoomModel>
+
+@{
+    ViewData["Title"] = "Salas do cinema";
+}
+
+<h2>Lista de salas do cinema</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cinema
+            </th>
+            <th>
+                Número da sala 
+            </th>
+            <th>
+                Capacidade
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Capacity)
+            </td>
+            <td>
+                <span class="badge badge-pill badge-warning">
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                </span>
+                &nbsp;
+                <span class="badge badge-pill badge-danger">
+                    @Html.ActionLink("Remover", "Delete", new { id = item.Id })
+                </span>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

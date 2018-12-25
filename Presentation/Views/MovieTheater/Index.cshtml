@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListMovieTheaterModel>
+
+@{
+    ViewData["Title"] = "Cinemas";
+}
+
+<h2 class="text-center">Cinemas</h2>
+
+<p>
+    <span class="badge badge-pill badge-primary float-right">
+        <a asp-action="Create">Adicionar Cinema</a>
+    </span>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cinema
+            </th>
+            <th>
+                Rua
+            </th>
+            <th>
+                Cep
+            </th>
+            <th>
+                Número
+            </th>
+            <th>
+                Cidade
+            </th>
+            <th>
+                Estado
+            </th>
+            <th > Acões </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StreetName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ZipCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CityName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.State)
+                </td>
+                <td>
+                    <span class="badge badge-pill badge-warning">
+                        @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                    </span>
+                    &nbsp;
+                    <span class="badge badge-pill badge-danger">
+                        @Html.ActionLink("Remover", "Delete", new { id = item.Id })
+                    </span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

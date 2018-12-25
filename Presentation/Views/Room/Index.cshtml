@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListMovieTheaterRoomModel>
+
+@{
+    ViewData["Title"] = "Salas";
+}
+
+<h2 class="text-center">Salas</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cinema
+            </th>
+            <th>
+                Cidade
+            </th>
+            <th>
+                Estado
+            </th>
+            <th>
+                Quantidade de salas
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityNameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StateMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantityRooms)
+            </td>
+            <td>
+                <span class="badge badge-pill badge-primary">
+                    @Html.ActionLink("Adicionar Sala", "Create", new { id = item.IdMovieTheater }) 
+                </span>
+                &nbsp;
+                <span class="badge badge-pill badge-info">
+                    @Html.ActionLink("Ver Salas", "Rooms", new { id = item.IdMovieTheater })
+                </span>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ServiceLayer.DTO.ListSessionModel>
+
+@{
+    ViewData["Title"] = "Lista de Sessões";
+}
+
+<h2 class="text-center">Lista de sessões</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Filme
+            </th>
+            <th>
+                Sala
+            </th>
+            <th>
+                Cinema
+            </th>
+            <th>
+                Inicio da sessão
+            </th>
+            <th>
+                Fim da sessão
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameMovie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameMovieTheater)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                <span class="badge badge-pill badge-warning">
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                </span>
+                &nbsp;
+                <span class="badge badge-pill badge-danger">
+                    @Html.ActionLink("Remover", "Delete", new { id = item.Id })
+                </span>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

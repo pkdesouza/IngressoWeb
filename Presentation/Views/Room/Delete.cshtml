@@ -1,0 +1,37 @@
+﻿@model ServiceLayer.DTO.DetailsRoomModel
+
+@{
+    ViewData["Title"] = "Remover sala";
+}
+
+<h3>Tem certeza que deseja remover essa sala?</h3>
+<div>
+    <h4>Informações</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Número da sala
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoomNumber)
+        </dd>
+        <dt>
+            Capacidade
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Capacity)
+        </dd>
+        <dt>
+            Quantidade de sessões associadas a essa sala
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.QuantitySessions)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Remover" class="btn btn-danger" /> |
+        <a asp-action="Index">Voltar para lista de salas</a>
+    </form>
+</div>
