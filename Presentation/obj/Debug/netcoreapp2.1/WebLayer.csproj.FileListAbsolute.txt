@@ -1,0 +1,143 @@
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csprojAssemblyReference.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.input.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.output.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorCoreGenerate.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.deps.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.dev.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.Views.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csproj.CopyComplete
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.deps.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.dev.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.Views.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csprojAssemblyReference.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.input.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.output.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorCoreGenerate.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.csproj.CopyComplete
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\IngressoLayer\obj\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.deps.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.dev.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.Views.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.csprojAssemblyReference.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.input.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.TagHelpers.output.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.RazorCoreGenerate.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\MovieTheater\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.Views.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.csproj.CopyComplete
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\WebLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Room\Rooms.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Room\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Room\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Room\Delete.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Session\Index.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Session\Sessions.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Session\Create.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Session\Edit.g.cshtml.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Session\Delete.g.cshtml.cs
