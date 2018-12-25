@@ -1,0 +1,22 @@
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\source\repos\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\HP PAVILION 14V062br\Desktop\ingresso backup\IngressoWeb\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
